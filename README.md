@@ -6,5 +6,9 @@ Original idea and code for this project is found [here!](https://www.reddit.com/
 This project is put together with the intention to make the code easier 
 to setup and use. 
 
+![Alt text](https://s3-us-west-2.amazonaws.com/johns-riot/lobby.png)
+
 Special thanks to [Unsynsored](https://www.twitch.tv/unsynsored) for the 
-project idea.
+project idea and some photos.
+
+![Alt text](https://s3-us-west-2.amazonaws.com/johns-riot/bus-1.png)
